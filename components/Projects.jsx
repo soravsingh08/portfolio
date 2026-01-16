@@ -17,6 +17,7 @@ const items = [
     desc: "AI-powered recipe generator built with React and a recipe API.",
     demo: "  https://chefbot-hazel.vercel.app/",
     code: "https://github.com/soravsingh08/chefbot"
+    //updated
   
   },
 
